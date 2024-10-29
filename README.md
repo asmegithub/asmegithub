@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Asmare Zelalem</h1>
 <h3 align="center">Junior Full Stack Developer </h3>
 
-- 🔭 I’m currently working on at e-Tech S.C as a Junior full stack developer 
+- 🔭 I’m currently working at e-Tech S.C as a Junior full stack developer 
 - 🌱 I’m currently learning **Bloachain development course at coursera*
 - 💬 Ask me about **React,Next,Typescript,Node,.NET Core, Django**
 - 📫 How to reach me **asmareaau@gmail.com**
