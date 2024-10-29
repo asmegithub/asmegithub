@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Asmare Zelalem</h1>
-<h3 align="center">Junior Full Stack Developer</h3>
+<h3 align="center">Junior Full Stack Developer (Bloachain Enthusiast</h3>
 
-- 🔭 I’m currently working on [Cinema Ticketing web app](https://abissinia-tickets.vercel.app/)
-- 🌱 I’m currently learning **Back End Development (Node,django,.Net Core) at ALX Academy**
-- 💬 Ask me about **React,Next,Typescript,Node,.NET Core**
-- 📫 How to reach me **asmarestu12@gmail.com**
+- 🔭 I’m currently working on at e-Tech S.C as a Junior full stack developer 
+- 🌱 I’m currently learning **Bloachain development course at coursera*
+- 💬 Ask me about **React,Next,Typescript,Node,.NET Core, Django**
+- 📫 How to reach me **asmareaau@gmail.com**
 - 👨‍💻 All of my projects are available at **https://www.linkedin.com/in/asmare21aau/details/projects/**
 - 📄 Know about my experiences **https://drive.google.com/file/d/1TzTxkSl5M8fxo4pLCRw9wqm81m0wZje6/view?usp=sharing**
 
